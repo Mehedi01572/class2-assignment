@@ -1,0 +1,82 @@
+body{
+	background-color: white;
+	margin: 0px;
+}
+
+
+.logo{
+    height:40px;
+	background-color: white;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid #576574;
+}
+.one{
+	color:#006266;
+}
+.two{
+	color:#EA2027;
+}
+.three{
+    color:#0652DD;
+}
+.four{
+	color:#ff3838;
+}
+.five{
+	color:#009432;
+}
+.six{
+	color:#F79F1F;
+}
+
+.about_project {
+
+	text-align: center;
+	font-size: larger;
+
+}
+
+img{
+
+	width: 70%;
+}
+.image_sec{
+
+  
+  margin left:230px;
+  margin-right: 230px;
+  padding: auto;
+  
+}
+
+.middle{
+
+	font-size:32px;
+	font-family: sans-serif;
+	margin-top: 10px;
+    margin-left: 220px;
+    
+}
+.footer{
+	margin-left: 220px;
+    margin-right: 220px;
+}
+.finishing{
+	 margin-top: 40px;
+	 margin-left: 220px;
+	 margin-right: 220px;
+	 margin-bottom: 40px;
+    text-align: center;
+    background-color: #27ae60;
+    color: #f5f6fa;
+    padding: 60px 0px;
+    font-size: 40px;
+    font-weight: bold;
+}
+    
+   
+
